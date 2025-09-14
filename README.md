@@ -105,6 +105,9 @@ party-menu-app/
 ![alt text](image-5.png)
 
 
+![alt text](image-6.png)
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
