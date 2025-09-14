@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Spring Rolls",
+    "mealType": "STARTER",
+    "type": "VEG",
+    "description": "Crispy fried rolls stuffed with vegetables.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/10/spring-rolls-recipe05.jpg",
+    "ingredients": [
+      { "name": "Cabbage", "quantity": "1 cup" },
+      { "name": "Carrot", "quantity": "1 medium" },
+      { "name": "Spring Roll Sheets", "quantity": "6" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka",
+    "mealType": "STARTER",
+    "type": "NON-VEG",
+    "description": "Grilled chicken marinated in yogurt and spices.",
+    "image": "https://butfirstchai.com/wp-content/uploads/2023/03/chicken-tikka-skewers-recipe.jpg",
+    "ingredients": [
+      { "name": "Chicken", "quantity": "200g" },
+      { "name": "Yogurt", "quantity": "1/2 cup" },
+      { "name": "Spices", "quantity": "to taste" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kadhai Paneer",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Paneer cubes in spicy onion gravy with capsicum.",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.rzixP8XwqrXR1qky6h9rWwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "ingredients": [
+      { "name": "Paneer", "quantity": "200g" },
+      { "name": "Onion", "quantity": "2 medium" },
+      { "name": "Capsicum", "quantity": "1 medium" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chicken Biryani",
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "description": "Aromatic rice cooked with marinated chicken and spices.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/hyderabadi-biryani-recipe-chicken.webp",
+    "ingredients": [
+      { "name": "Chicken", "quantity": "250g" },
+      { "name": "Basmati Rice", "quantity": "200g" },
+      { "name": "Onion", "quantity": "2 fried" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gulab Jamun",
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Soft fried dumplings soaked in sugar syrup.",
+    "image": "https://bakewithzoha.com/wp-content/uploads/2023/04/gulab-jamun-featured.jpg",
+    "ingredients": [
+      { "name": "Milk Powder", "quantity": "1 cup" },
+      { "name": "Flour", "quantity": "2 tbsp" },
+      { "name": "Sugar Syrup", "quantity": "1 cup" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ice Cream Sundae",
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Vanilla ice cream topped with chocolate syrup and nuts.",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.LIgM2BQNF41bIIijN2sWiQHaE7?w=626&h=417&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "ingredients": [
+      { "name": "Vanilla Ice Cream", "quantity": "2 scoops" },
+      { "name": "Chocolate Syrup", "quantity": "2 tbsp" },
+      { "name": "Nuts", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "French Fries",
+    "mealType": "SIDES",
+    "type": "VEG",
+    "description": "Crispy fried potato sticks served with ketchup.",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.qP36Xp4FmU958oEaw_MZ5QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "ingredients": [
+      { "name": "Potatoes", "quantity": "2 large" },
+      { "name": "Oil", "quantity": "for frying" },
+      { "name": "Salt", "quantity": "to taste" }
+    ]
+  }
+]
